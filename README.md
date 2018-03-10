@@ -16,7 +16,7 @@ Recipes will follow the following basic format:
 * Notes on the dish, pain points you may ecnounter, credit for the original version of the dish, substitutions, etc.
 
 
-##Pre-requisites
+## Pre-requisites
 * LaTeX
 * pdflatex
 * make
