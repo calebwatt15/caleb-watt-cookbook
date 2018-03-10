@@ -42,38 +42,38 @@ make view
 * Slow Cooker Pot Roast
 
 ### Sides, Sauces, and Stuffings
-* alfredoSauce (TODO)
-* cocktailSauce
-* crabBoilSpiceMixture
-* dirtyRice
-* steamedWhiteRice (TODO)
-* yorkshirePudding (TODO)
+* Alfredo Sauce (TODO)
+* Cocktail Sauce
+* Crab Boil Spice Mixture
+* Dirty Rice
+* Steamed White Rice (TODO)
+* Yorkshire Pudding (TODO)
 
 ### Breads
-* buttermilkBiscuits (TODO)
-* cornbread (TODO)
-* sourdoughBread (TODO)
-* whiteBread (TODO)
+* Buttermilk Biscuits (TODO)
+* Cornbread (TODO)
+* Sourdough Bread (TODO)
+* White Bread (TODO)
 
 ### Desserts
-* bananaPudding (TODO)
-* breadPuddingWithBrandySauce (TODO)
-* buttermilkPie (TODO)
-* crèmeAnglaise (TODO)
-* pieCrust
-* vanillaWafers (TODO)
-* whippedCream (TODO)
+* Banana Pudding (TODO)
+* Bread Pudding With Brandy Sauce (TODO)
+* Buttermilk Pie (TODO)
+* Crème Anglaise (TODO)
+* Pie Crust
+* Vanilla Wafers (TODO)
+* Whipped Cream (TODO)
 
 ### Barbecue and Other Meats
-* cajunAndouille (TODO)
-* bacon (TODO)
-* beefFajita (TODO)
-* smokedBeefRibs (TODO)
-* smokedBrisket (TODO)
-* smokedSalmon (TODO)
-* tasso (TODO)
+* Cajun Andouille (TODO)
+* Bacon (TODO)
+* Beef Fajita (TODO)
+* Smoked Beef Ribs (TODO)
+* Smoked Brisket (TODO)
+* Smoked Salmon (TODO)
+* Tasso (TODO)
 
 ### Fermented
-* kombucha (TODO)
-* sourdoughStarter (TODO)
-* yogurt (TODO)
+* Kombucha (TODO)
+* Sourdough Starter (TODO)
+* Yogurt (TODO)
