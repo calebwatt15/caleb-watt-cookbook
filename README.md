@@ -28,3 +28,52 @@ git clone https://github.com/calebwatt15/caleb-watt-cookbook.git
 cd caleb-watt-cookbook
 make view
 ```
+
+## Recipes So Far
+### Entrées
+* Boiled Shrimp
+* Boneless Stuffed Chicken (TODO)
+* Chicken and Andouille Gumbo (TODO)
+* Crispy Bacon (TODO)
+* Grilled Cheese Sandwich (TODO)
+* Quiche
+* Shrimp Pie (TODO)
+* Slow Cooker Pork Carnitas
+* Slow Cooker Pot Roast
+
+### Sides, Sauces, and Stuffings
+* alfredoSauce (TODO)
+* cocktailSauce
+* crabBoilSpiceMixture
+* dirtyRice
+* steamedWhiteRice (TODO)
+* yorkshirePudding (TODO)
+
+### Breads
+* buttermilkBiscuits (TODO)
+* cornbread (TODO)
+* sourdoughBread (TODO)
+* whiteBread (TODO)
+
+### Desserts
+* bananaPudding (TODO)
+* breadPuddingWithBrandySauce (TODO)
+* buttermilkPie (TODO)
+* crèmeAnglaise (TODO)
+* pieCrust
+* vanillaWafers (TODO)
+* whippedCream (TODO)
+
+### Barbecue and Other Meats
+* cajunAndouille (TODO)
+* bacon (TODO)
+* beefFajita (TODO)
+* smokedBeefRibs (TODO)
+* smokedBrisket (TODO)
+* smokedSalmon (TODO)
+* tasso (TODO)
+
+### Fermented
+* kombucha (TODO)
+* sourdoughStarter (TODO)
+* yogurt (TODO)
