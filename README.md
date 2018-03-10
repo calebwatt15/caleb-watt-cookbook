@@ -53,7 +53,7 @@ make view
 * Buttermilk Biscuits (TODO)
 * Cornbread (TODO)
 * Sourdough Bread (TODO)
-* White Bread (TODO)
+* White Bread
 
 ### Desserts
 * Banana Pudding (TODO)
