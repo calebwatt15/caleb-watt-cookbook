@@ -1,0 +1,35 @@
+\documentclass[11pt]{book}
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0 }
+\usepackage[utf8]{inputenc}{
+\usepackage{multicol}
+\usepackage{minitoc}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+}
+\usepackage{nameref}
+
+\title{Things I Cook}
+\author{Caleb Watt}
+
+\begin{document}
+
+\begin{titlepage}
+\maketitle
+\end{titlepage}
+
+\dominitoc
+\tableofcontents
+
+\setcounter{mtc}{0}
+\input{chapters/introduction/introduction}
+\input{chapters/entrees/entrees}
+\input{chapters/sidesSaucesAndStuffings/sidesSaucesAndStuffings}
+\input{chapters/breads/breads}
+\input{chapters/desserts/desserts}
+\input{chapters/barbecueAndOtherMeats/barbecueAndOtherMeats}
+\input{chapters/fermented/fermented}
+
+\end{document}
