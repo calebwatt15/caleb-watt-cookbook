@@ -42,7 +42,7 @@ make view
 * Slow Cooker Pot Roast
 
 ### Sides, Sauces, and Stuffings
-* Alfredo Sauce (TODO)
+* Alfredo Sauce
 * Cocktail Sauce
 * Crab Boil Spice Mixture
 * Dirty Rice
