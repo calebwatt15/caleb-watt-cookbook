@@ -7,19 +7,19 @@ A compiled version should always be hosted at the following URL, if you don't wa
 
 ## Recipe Format
 Recipes will follow the following basic format:
-..*Title
-..*Time to make
-..*Number of people a dish serves
-..*Ingredients required
-..*Hardware required (often ignores common things, such as knives, measuring spoons, silverware, etc.)
-..*Instructions to make the dish
-..*Notes on the dish, pain points you may ecnounter, credit for the original version of the dish, substitutions, etc.
+* Title
+* Time to make
+* Number of people a dish serves
+* Ingredients required
+* Hardware required (often ignores common things, such as knives, measuring spoons, silverware, etc.)
+* Instructions to make the dish
+* Notes on the dish, pain points you may ecnounter, credit for the original version of the dish, substitutions, etc.
 
 
 ##Pre-requisites
-..*LaTeX
-..*pdflatex
-..*make
+* LaTeX
+* pdflatex
+* make
 
 
 ## Build Instructions
