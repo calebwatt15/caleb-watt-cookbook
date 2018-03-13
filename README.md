@@ -51,7 +51,7 @@ make view
 * Steamed White Rice (TODO)
 * Yorkshire Pudding (TODO)
 
-## Sauces and Stuffings
+### Sauces and Stuffings
 * Alfredo Sauce
 * Brown Gravy (TODO)
 * Cocktail Sauce
