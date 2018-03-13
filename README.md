@@ -29,11 +29,11 @@ cd caleb-watt-cookbook
 make view
 ```
 
-## Recipes So Far
+## Recipes
 ### Entrées
+* American Cottage Pie
 * Boiled Shrimp
 * Boneless Stuffed Chicken (TODO)
-* Chicken and Andouille Gumbo (TODO)
 * Crispy Bacon (TODO)
 * Grilled Cheese Sandwich (TODO)
 * Quiche
@@ -41,13 +41,38 @@ make view
 * Slow Cooker Pork Carnitas
 * Slow Cooker Pot Roast
 
-### Sides, Sauces, and Stuffings
-* Alfredo Sauce
-* Cocktail Sauce
+### Sides
 * Crab Boil Spice Mixture
 * Dirty Rice
+* Gibblet Gravy (TODO)
+* Mashed Potatos
+* Red Beans and Rice (TODO)
+* Scotch Eggs (TODO)
 * Steamed White Rice (TODO)
 * Yorkshire Pudding (TODO)
+
+## Sauces and Stuffings
+* Alfredo Sauce
+* Brown Gravy (TODO)
+* Cocktail Sauce
+* Country Gravy
+* Hollandaise Sauce
+* Spaghetti Sauce (TODO)
+
+### Soups and Stews
+* Bisque (TODO)
+* Broccoli Cheese Soup (TODO)
+* Brunswick Stew (TODO)
+* Chicken and Andouille Gumbo (TODO)
+* Chicken and Dumplings (TODO)
+* Chicken Noodle Soup (TODO)
+* Chili (TODO)
+* Chili with Beans (TODO)
+* Clam Chowder (TODO)
+* Corn Chowder (TODO)
+* Cream of Mushroom Soup (TODO)
+* Crème Vichyssoise Glacée (TODO)
+* Seafood Gumbo (TODO)
 
 ### Breads
 * Buttermilk Biscuits (TODO)
@@ -75,5 +100,6 @@ make view
 
 ### Fermented
 * Kombucha (TODO)
+* Pickled Eggs (TODO)
 * Sourdough Starter (TODO)
 * Yogurt (TODO)
