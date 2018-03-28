@@ -98,8 +98,8 @@ make view
 * Smoked Salmon (TODO)
 * Tasso (TODO)
 
-### Fermented
+### Fermented, Pickles, and Canned
 * Kombucha (TODO)
 * Pickled Eggs (TODO)
 * Sourdough Starter (TODO)
-* Yogurt (TODO)
+* Yogurt
