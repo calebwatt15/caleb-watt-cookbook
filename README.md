@@ -34,6 +34,7 @@ make view
 * American Cottage Pie
 * Boiled Shrimp
 * Boneless Stuffed Chicken (TODO)
+* Cajun Tourtière
 * Crispy Bacon (TODO)
 * Grilled Cheese Sandwich (TODO)
 * Quiche
