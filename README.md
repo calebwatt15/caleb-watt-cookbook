@@ -35,7 +35,7 @@ make view
 * Boiled Shrimp
 * Boneless Stuffed Chicken (TODO)
 * Cajun Tourtière
-* Cigánypecsenye (TODO)
+* Cigánypecsenye
 * Crispy Bacon (TODO)
 * Grilled Cheese Sandwich (TODO)
 * Gulyásleves (TODO)
