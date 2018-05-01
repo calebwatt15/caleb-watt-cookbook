@@ -35,14 +35,20 @@ make view
 * Boiled Shrimp
 * Boneless Stuffed Chicken (TODO)
 * Cajun Tourtière
+* Cigánypecsenye (TODO)
 * Crispy Bacon (TODO)
 * Grilled Cheese Sandwich (TODO)
+* Gulyásleves (TODO)
+* Lángos
 * Quiche
 * Shrimp Pie (TODO)
 * Slow Cooker Pork Carnitas
 * Slow Cooker Pot Roast
+* töltött káposzta (TODO)
 
 ### Sides
+* Callaloo
+* Collard Greens (TODO)
 * Crab Boil Spice Mixture
 * Dirty Rice
 * Gibblet Gravy (TODO)
@@ -78,6 +84,8 @@ make view
 ### Breads
 * Buttermilk Biscuits (TODO)
 * Cornbread (TODO)
+* Financier
+* Kürtőskalács (Chimney Cake) (TODO)
 * Sourdough Bread (TODO)
 * White Bread
 
@@ -86,14 +94,16 @@ make view
 * Bread Pudding With Brandy Sauce (TODO)
 * Buttermilk Pie (TODO)
 * Crème Anglaise (TODO)
+* Festivals (TODO)
 * Pie Crust
 * Vanilla Wafers (TODO)
 * Whipped Cream (TODO)
 
 ### Barbecue and Other Meats
-* Cajun Andouille (TODO)
 * Bacon (TODO)
 * Beef Fajita (TODO)
+* Cajun Andouille (TODO)
+* Jerk Chicken (TODO)
 * Smoked Beef Ribs (TODO)
 * Smoked Brisket (TODO)
 * Smoked Salmon (TODO)
