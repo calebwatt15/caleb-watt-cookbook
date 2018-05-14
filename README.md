@@ -2,8 +2,7 @@
 This is a literal cookbook (as in for food) that has recipes I use. I will attempt to keep recipes up to date as I make them, as well as add in credit if I got the recipe from someone other than myself.
 
 ## Compiled Version
-A compiled version should always be hosted at the following URL, if you don't want to build LaTeX yourself (I can't blame you).
-<https://drive.google.com/file/d/1rb31qDP70m-DlUhruR5giqxVUAv0CGOA/view>
+A compiled version can be found in the root repository directory, called cookbook.pdf.
 
 ## Recipe Format
 Recipes will follow the following basic format:
