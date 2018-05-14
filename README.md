@@ -56,6 +56,7 @@ make view
 * Red Beans and Rice (TODO)
 * Scotch Eggs (TODO)
 * Steamed White Rice (TODO)
+* Stovetop Mac and Cheese
 * Yorkshire Pudding (TODO)
 
 ### Sauces and Stuffings
@@ -84,8 +85,9 @@ make view
 ### Breads
 * Buttermilk Biscuits (TODO)
 * Cornbread (TODO)
-* Financier
+* Croissant (TODO)
 * Kürtőskalács (Chimney Cake) (TODO)
+* pâte feuilletée (puff pastry) (TODO)
 * Sourdough Bread (TODO)
 * White Bread
 
@@ -94,7 +96,11 @@ make view
 * Bread Pudding With Brandy Sauce (TODO)
 * Buttermilk Pie (TODO)
 * Crème Anglaise (TODO)
+* Crème Pâtissière (TODO)
 * Festivals (TODO)
+* Financier (TODO)
+* Mille-feuille (TODO)
+* Pain au chocolat (TODO)
 * Pie Crust
 * Vanilla Wafers (TODO)
 * Whipped Cream (TODO)
