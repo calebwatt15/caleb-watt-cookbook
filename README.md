@@ -31,6 +31,7 @@ make view
 ## Recipes
 ### Entrées
 * American Cottage Pie
+* Boiled Crawfish
 * Boiled Shrimp
 * Boneless Stuffed Chicken (TODO)
 * Cajun Tourtière
@@ -38,7 +39,7 @@ make view
 * Crispy Bacon (TODO)
 * Grilled Cheese Sandwich (TODO)
 * Gulyásleves (TODO)
-* Lángos
+* Lángos (TODO)
 * Quiche
 * Shrimp Pie (TODO)
 * Slow Cooker Pork Carnitas
@@ -46,12 +47,13 @@ make view
 * töltött káposzta (TODO)
 
 ### Sides
-* Callaloo
-* Collard Greens (TODO)
+* Champignons Sautés Au Beurre
+* Callaloo (TODO)
+* Collard Greens
 * Crab Boil Spice Mixture
 * Dirty Rice
-* Gibblet Gravy (TODO)
-* Mashed Potatos
+* Mashed Potatos (TODO)
+* Oignons Glacés À Brun
 * Red Beans and Rice (TODO)
 * Scotch Eggs (TODO)
 * Steamed White Rice (TODO)
@@ -61,9 +63,11 @@ make view
 ### Sauces and Stuffings
 * Alfredo Sauce
 * Brown Gravy (TODO)
+* Classic Barbecue Sauce
 * Cocktail Sauce
 * Country Gravy
-* Hollandaise Sauce
+* Gibblet Gravy (TODO)
+* Hollandaise Sauce (TODO)
 * Spaghetti Sauce (TODO)
 
 ### Soups and Stews
@@ -109,8 +113,8 @@ make view
 * Beef Fajita (TODO)
 * Cajun Andouille (TODO)
 * Jerk Chicken (TODO)
-* Smoked Beef Ribs (TODO)
-* Smoked Brisket (TODO)
+* Smoked Beef Plate Ribs
+* Smoked Brisket
 * Smoked Salmon (TODO)
 * Tasso (TODO)
 
