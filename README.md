@@ -97,7 +97,7 @@ make view
 ### Desserts
 * Banana Pudding (TODO)
 * Bread Pudding With Brandy Sauce (TODO)
-* Buttermilk Pie (TODO)
+* Buttermilk Pie
 * Crème Anglaise (TODO)
 * Crème Pâtissière (TODO)
 * Festivals (TODO)
