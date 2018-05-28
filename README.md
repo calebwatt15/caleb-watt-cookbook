@@ -59,6 +59,7 @@ make view
 * Steamed White Rice (TODO)
 * Stovetop Mac and Cheese
 * Yorkshire Pudding (TODO)
+* White Rice
 
 ### Sauces and Stuffings
 * Alfredo Sauce
