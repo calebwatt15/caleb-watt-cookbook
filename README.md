@@ -89,10 +89,12 @@ make view
 ### Breads
 * Buttermilk Biscuits (TODO)
 * Cornbread (TODO)
-* Croissant (TODO)
+* Croissant
 * Kürtőskalács (Chimney Cake) (TODO)
-* pâte feuilletée (puff pastry) (TODO)
+* Pain au chocolat
+* Pâte feuilletée (puff pastry) (TODO)
 * Sourdough Bread (TODO)
+* Viennoiserie dough
 * White Bread
 
 ### Desserts
