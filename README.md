@@ -57,7 +57,8 @@ make view
 * Red Beans and Rice (TODO)
 * Scotch Eggs (TODO)
 * Steamed White Rice (TODO)
-* Stovetop Mac and Cheese
+* Mac and Cheese (Bechamel)
+* Mac and Cheese (Emulsified)
 * Yorkshire Pudding (TODO)
 * White Rice
 
@@ -106,7 +107,7 @@ make view
 * Festivals (TODO)
 * Financier (TODO)
 * Mille-feuille (TODO)
-* Pain au chocolat (TODO)
+* Pan de Polvo
 * Pie Crust
 * Vanilla Wafers (TODO)
 * Whipped Cream (TODO)
