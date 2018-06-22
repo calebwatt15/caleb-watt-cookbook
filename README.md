@@ -36,6 +36,7 @@ make view
 * Boneless Stuffed Chicken (TODO)
 * Cajun Tourtière
 * Cigánypecsenye
+* Csirke Paprikás (TODO)
 * Crispy Bacon (TODO)
 * Grilled Cheese Sandwich (TODO)
 * Gulyásleves (TODO)
@@ -52,6 +53,7 @@ make view
 * Collard Greens
 * Crab Boil Spice Mixture
 * Dirty Rice
+* Galuska (Nokedli)
 * Mashed Potatos (TODO)
 * Oignons Glacés À Brun
 * Red Beans and Rice (TODO)
@@ -99,6 +101,7 @@ make view
 * White Bread
 
 ### Desserts
+* Bagels
 * Banana Pudding (TODO)
 * Bread Pudding With Brandy Sauce (TODO)
 * Buttermilk Pie
@@ -115,12 +118,17 @@ make view
 ### Barbecue and Other Meats
 * Bacon (TODO)
 * Beef Fajita (TODO)
-* Cajun Andouille (TODO)
+* Boudin Noir (TODO)
+* Boudin (Cajun) (TODO)
+* Andouille (Cajun) (TODO)
+* Andouille (French) (TODO)
 * Jerk Chicken (TODO)
+* Pastrami (TODO)
 * Smoked Beef Plate Ribs
 * Smoked Brisket
 * Smoked Salmon (TODO)
 * Tasso (TODO)
+* Viande Fumée (Montréal Smoked Meat) (TODO)
 
 ### Fermented, Pickles, and Canned
 * Kombucha (TODO)
