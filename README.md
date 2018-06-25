@@ -65,16 +65,6 @@ make view
 * Yorkshire Pudding (TODO)
 * White Rice
 
-### Sauces and Stuffings
-* Alfredo Sauce
-* Brown Gravy (TODO)
-* Classic Barbecue Sauce
-* Cocktail Sauce
-* Country Gravy
-* Gibblet Gravy (TODO)
-* Hollandaise Sauce (TODO)
-* Spaghetti Sauce (TODO)
-
 ### Soups and Stews
 * Bisque (TODO)
 * Broccoli Cheese Soup (TODO)
@@ -91,9 +81,19 @@ make view
 * Roux
 * Seafood Gumbo (TODO)
 
+### Sauces and Stuffings
+* Alfredo Sauce
+* Brown Gravy (TODO)
+* Classic Barbecue Sauce
+* Cocktail Sauce
+* Country Gravy
+* Gibblet Gravy (TODO)
+* Hollandaise Sauce (TODO)
+* Spaghetti Sauce (TODO)
+
 ### Breads
 * Buttermilk Biscuits (TODO)
-* Cornbread (TODO)
+* Cornbread
 * Croissant
 * Kürtőskalács (Chimney Cake) (TODO)
 * Pain au chocolat
