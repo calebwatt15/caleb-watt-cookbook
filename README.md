@@ -38,6 +38,7 @@ make view
 * Cigánypecsenye
 * Csirke Paprikás (TODO)
 * Crispy Bacon (TODO)
+* Étouffée
 * Grilled Cheese Sandwich (TODO)
 * Gulyásleves (TODO)
 * Lángos (TODO)
@@ -87,6 +88,7 @@ make view
 * Corn Chowder (TODO)
 * Cream of Mushroom Soup (TODO)
 * Crème Vichyssoise Glacée (TODO)
+* Roux
 * Seafood Gumbo (TODO)
 
 ### Breads
