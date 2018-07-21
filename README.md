@@ -43,7 +43,7 @@ make view
 * Gulyásleves (TODO)
 * Lángos (TODO)
 * Quiche
-* Rakott Kelkáposzta (TODO)
+* Rakott Kelkáposzta
 * Shrimp Pie (TODO)
 * Slow Cooker Pork Carnitas
 * Slow Cooker Pot Roast
