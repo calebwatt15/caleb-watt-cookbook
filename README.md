@@ -36,17 +36,19 @@ make view
 * Boneless Stuffed Chicken (TODO)
 * Cajun Tourtière
 * Cigánypecsenye
-* Csirke Paprikás (TODO)
+* Csirkepaprikás
 * Crispy Bacon (TODO)
 * Étouffée
 * Grilled Cheese Sandwich (TODO)
 * Gulyásleves (TODO)
 * Lángos (TODO)
 * Quiche
+* Rakott Kelkáposzta (TODO)
 * Shrimp Pie (TODO)
 * Slow Cooker Pork Carnitas
 * Slow Cooker Pot Roast
-* töltött káposzta (TODO)
+* töltött Káposzta (TODO)
+* Tordai Kelpástétom (TODO)
 
 ### Sides
 * Champignons Sautés Au Beurre
