@@ -94,6 +94,7 @@ make view
 * Spaghetti Sauce (TODO)
 
 ### Breads
+* Bagels (TODO)
 * Buttermilk Biscuits (TODO)
 * Cornbread
 * Croissant
@@ -105,7 +106,6 @@ make view
 * White Bread
 
 ### Desserts
-* Bagels
 * Banana Pudding (TODO)
 * Bread Pudding With Brandy Sauce (TODO)
 * Buttermilk Pie
