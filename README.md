@@ -48,7 +48,7 @@ make view
 * Slow Cooker Pork Carnitas
 * Slow Cooker Pot Roast
 * töltött Káposzta (TODO)
-* Tordai Kelpástétom (TODO)
+* Tordai Kelpástétom
 
 ### Sides
 * Champignons Sautés Au Beurre
