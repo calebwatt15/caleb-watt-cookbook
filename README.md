@@ -109,6 +109,7 @@ make view
 * Banana Pudding (TODO)
 * Bread Pudding With Brandy Sauce (TODO)
 * Buttermilk Pie
+* Chocolate Chip Cookies
 * Crème Anglaise (TODO)
 * Crème Pâtissière (TODO)
 * Festivals (TODO)
