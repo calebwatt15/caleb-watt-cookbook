@@ -128,6 +128,7 @@ make view
 * Boudin (Cajun) (TODO)
 * Andouille (Cajun) (TODO)
 * Andouille (French) (TODO)
+* Hamburgers
 * Jerk Chicken (TODO)
 * Pastrami (TODO)
 * Smoked Beef Plate Ribs
