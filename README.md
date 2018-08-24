@@ -38,6 +38,7 @@ make view
 * Cigánypecsenye
 * Csirkepaprikás
 * Crispy Bacon (TODO)
+* Egg Noodles
 * Étouffée
 * Grilled Cheese Sandwich (TODO)
 * Gulyásleves (TODO)
