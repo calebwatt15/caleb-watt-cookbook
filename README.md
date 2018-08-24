@@ -92,7 +92,7 @@ make view
 * Country Gravy
 * Gibblet Gravy (TODO)
 * Hollandaise Sauce (TODO)
-* Spaghetti Sauce (TODO)
+* Marinara Sauce
 
 ### Breads
 * Bagels (TODO)
