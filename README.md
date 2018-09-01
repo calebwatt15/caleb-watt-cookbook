@@ -119,6 +119,7 @@ make view
 * Mille-feuille (TODO)
 * Pan de Polvo
 * Pie Crust
+* Rice Krispy Treats
 * Vanilla Wafers (TODO)
 * Whipped Cream (TODO)
 
