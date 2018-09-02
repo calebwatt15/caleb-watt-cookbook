@@ -112,7 +112,7 @@ make view
 * Buttermilk Pie
 * Chocolate Chip Cookies
 * Crème Anglaise (TODO)
-* Crème Pâtissière (TODO)
+* Crème Pâtissière
 * Festivals (TODO)
 * Financier (TODO)
 * Meringues
