@@ -55,7 +55,6 @@ make view
 * Champignons Sautés Au Beurre
 * Callaloo (TODO)
 * Collard Greens
-* Crab Boil Spice Mixture
 * Dirty Rice
 * Galuska (Nokedli)
 * Mashed Potatos (TODO)
@@ -75,7 +74,7 @@ make view
 * Chicken and Andouille Gumbo (TODO)
 * Chicken and Dumplings (TODO)
 * Chicken Noodle Soup (TODO)
-* Chili (TODO)
+* Chili
 * Chili with Beans (TODO)
 * Clam Chowder (TODO)
 * Corn Chowder (TODO)
@@ -144,3 +143,7 @@ make view
 * Pickled Eggs (TODO)
 * Sourdough Starter (TODO)
 * Yogurt
+
+### Miscellaneous
+* Crab Boil Spice Mixture
+* Chili Powder
