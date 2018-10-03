@@ -69,7 +69,7 @@ make view
 
 ### Soups and Stews
 * Bisque (TODO)
-* Broccoli Cheese Soup (TODO)
+* Broccoli Chedar Soup
 * Brunswick Stew (TODO)
 * Chicken and Andouille Gumbo (TODO)
 * Chicken and Dumplings (TODO)
