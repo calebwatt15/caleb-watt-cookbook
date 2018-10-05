@@ -148,3 +148,4 @@ make view
 ### Miscellaneous
 * Crab Boil Spice Mixture
 * Chili Powder
+* Vanilla Sugar
