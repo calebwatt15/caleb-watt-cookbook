@@ -40,7 +40,7 @@ make view
 * Crispy Bacon (TODO)
 * Egg Noodles
 * Étouffée
-* Grilled Cheese Sandwich (TODO)
+* Grilled Cheese Sandwich
 * Gulyásleves (TODO)
 * Lángos (TODO)
 * Quiche
@@ -121,7 +121,7 @@ make view
 * Pie Crust
 * Rice Krispy Treats
 * Vanilla Wafers (TODO)
-* Whipped Cream (TODO)
+* Whipped Cream
 
 ### Barbecue and Other Meats
 * Bacon (TODO)
