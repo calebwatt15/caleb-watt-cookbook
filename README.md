@@ -74,7 +74,7 @@ make view
 * Chicken and Andouille Gumbo (TODO)
 * Chicken and Dumplings (TODO)
 * Chicken Noodle Soup (TODO)
-* Chili
+* Chili con carne
 * Chili with Beans (TODO)
 * Clam Chowder (TODO)
 * Corn Chowder (TODO)
@@ -82,6 +82,7 @@ make view
 * Crème Vichyssoise Glacée (TODO)
 * Roux
 * Seafood Gumbo (TODO)
+* Tomato Soup
 
 ### Sauces and Stuffings
 * Alfredo Sauce
