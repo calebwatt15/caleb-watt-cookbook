@@ -107,7 +107,7 @@ make view
 * White Bread
 
 ### Desserts
-* Banana Pudding (TODO)
+* Banana Pudding (refrigerated)
 * Bread Pudding With Brandy Sauce (TODO)
 * Buttermilk Pie
 * Chocolate Chip Cookies
@@ -120,7 +120,7 @@ make view
 * Pan de Polvo
 * Pie Crust
 * Rice Krispy Treats
-* Vanilla Wafers (TODO)
+* Vanilla Wafers
 * Whipped Cream
 
 ### Barbecue and Other Meats
