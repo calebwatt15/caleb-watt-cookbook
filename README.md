@@ -93,6 +93,7 @@ make view
 * Gibblet Gravy (TODO)
 * Hollandaise Sauce (TODO)
 * Marinara Sauce
+* Pesto
 
 ### Breads
 * Bagels (TODO)
