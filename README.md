@@ -41,6 +41,7 @@ make view
 * Crispy Bacon (TODO)
 * Egg Noodles
 * Étouffée
+* Fried Chicken
 * Grilled Cheese Sandwich
 * Gulyásleves (TODO)
 * Lángos (TODO)
