@@ -149,6 +149,7 @@ make view
 * Yogurt
 
 ### Miscellaneous
-* Crab Boil Spice Mixture
+* Chicken Brine
 * Chili Powder
+* Crab Boil Spice Mixture
 * Vanilla Sugar
