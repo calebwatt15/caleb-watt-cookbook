@@ -36,6 +36,7 @@ make view
 * Boneless Stuffed Chicken (TODO)
 * Cajun Tourtière
 * Cigánypecsenye
+* Cornish Pasty
 * Csirkepaprikás
 * Crispy Bacon (TODO)
 * Egg Noodles
