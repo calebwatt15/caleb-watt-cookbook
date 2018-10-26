@@ -66,6 +66,7 @@ make view
 * Mashed Potatos
 * Oignons Glacés À Brun
 * Pento Beans
+* Queso Botanas
 * Red Beans and Rice (TODO)
 * Scotch Eggs (TODO)
 * Steamed White Rice (TODO)
