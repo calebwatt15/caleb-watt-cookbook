@@ -59,14 +59,16 @@ make view
 * Callaloo (TODO)
 * Collard Greens
 * Dirty Rice
+* Frijoles Refritos
 * Galuska (Nokedli)
-* Mashed Potatos (TODO)
+* Mac and Cheese (Bechamel)
+* Mac and Cheese (Emulsified)
+* Mashed Potatos
 * Oignons Glacés À Brun
+* Pento Beans
 * Red Beans and Rice (TODO)
 * Scotch Eggs (TODO)
 * Steamed White Rice (TODO)
-* Mac and Cheese (Bechamel)
-* Mac and Cheese (Emulsified)
 * Yorkshire Pudding (TODO)
 * White Rice
 
