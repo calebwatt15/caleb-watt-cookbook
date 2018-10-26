@@ -54,6 +54,7 @@ make view
 * Tordai Kelpástétom
 
 ### Sides
+* Arroz A La Mexicana
 * Champignons Sautés Au Beurre
 * Callaloo (TODO)
 * Collard Greens
