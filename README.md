@@ -78,7 +78,7 @@ make view
 * Broccoli Chedar Soup
 * Brunswick Stew (TODO)
 * Chicken and Andouille Gumbo (TODO)
-* Chicken and Dumplings (TODO)
+* Chicken and Dumplings
 * Chicken Noodle Soup (TODO)
 * Chili con carne
 * Chili with Beans (TODO)
