@@ -45,6 +45,7 @@ make view
 * Grilled Cheese Sandwich
 * Gulyásleves (TODO)
 * Lángos (TODO)
+* Meatloaf
 * Quiche
 * Rakott Kelkáposzta
 * Shrimp Pie (TODO)
