@@ -78,6 +78,7 @@ make view
 * Bisque (TODO)
 * Broccoli Chedar Soup
 * Brunswick Stew (TODO)
+* Caldo De Res
 * Chicken and Andouille Gumbo (TODO)
 * Chicken and Dumplings
 * Chicken Noodle Soup (TODO)
