@@ -121,6 +121,7 @@ make view
 * Banana Pudding (refrigerated)
 * Bread Pudding With Brandy Sauce (TODO)
 * Buttermilk Pie
+* Canelés
 * Chocolate Chip Cookies
 * Crème Anglaise (TODO)
 * Crème Pâtissière
