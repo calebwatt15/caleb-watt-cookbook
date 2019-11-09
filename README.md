@@ -51,6 +51,7 @@ make view
 * Shrimp Pie (TODO)
 * Slow Cooker Pork Carnitas
 * Slow Cooker Pot Roast
+* Spaghetti Alle Vongole In Bianco
 * töltött Káposzta (TODO)
 * Tordai Kelpástétom
 
