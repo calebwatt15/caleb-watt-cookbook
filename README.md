@@ -65,6 +65,7 @@ make view
 * Mac and Cheese (Bechamel)
 * Mac and Cheese (Emulsified)
 * Mashed Potatos
+* Mizeria
 * Oignons Glacés À Brun
 * Pento Beans
 * Queso Botanas
