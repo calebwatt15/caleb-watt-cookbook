@@ -44,6 +44,7 @@ make view
 * Fried Chicken
 * Grilled Cheese Sandwich
 * Gulyásleves (TODO)
+* King Ranch Casserole
 * Lángos (TODO)
 * Meatloaf
 * Quiche
