@@ -58,6 +58,7 @@ make view
 
 ### Sides
 * Arroz A La Mexicana
+* Basmati Rice
 * Champignons Sautés Au Beurre
 * Callaloo (TODO)
 * Collard Greens
